@@ -1,0 +1,220 @@
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Phần mềm quản lý cửa hàng xe máy.exe.config
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Phần mềm quản lý cửa hàng xe máy.exe
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Phần mềm quản lý cửa hàng xe máy.pdb
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.Properties.Resources.resources
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần mềm quản lý cửa hàng xe máy.csproj.GenerateResource.cache
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần mềm quản lý cửa hàng xe máy.csproj.CoreCompileInputs.cache
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần mềm quản lý cửa hàng xe máy.exe
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần mềm quản lý cửa hàng xe máy.pdb
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.quenmatkhau.resources
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.dangki.resources
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.trangchu.resources
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.nhanvien.resources
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\DevComponents.DotNetBar2.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần mềm quản lý cửa hàng xe máy.csproj.CopyComplete
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.doimatkhau.resources
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.dangnhap.resources
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.xemay.resources
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.nhacungcap.resources
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.Qlnhaphang.resources
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.xuathang.resources
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Microsoft.ReportViewer.WebDesign.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Microsoft.ReportViewer.WebForms.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\EnvDTE.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\stdole.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Microsoft.MSXML.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\RdlCompile.cache
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\RdlCompile.compiled
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.baocaonhap.resources
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Report1.rdlc
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Report2.rdlc
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.Baocaoxuat.resources
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.luong.resources
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Phần mềm quản lý cửa hàng xe máy.exe.config
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Phần mềm quản lý cửa hàng xe máy.exe
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Phần mềm quản lý cửa hàng xe máy.pdb
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần mềm quản lý cửa hàng xe máy.csproj.AssemblyReference.cache
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.luong.resources
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.baocaonhap.resources
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.Baocaoxuat.resources
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.Properties.Resources.resources
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.Qlnhaphang.resources
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.quenmatkhau.resources
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.nhacungcap.resources
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.nhanvien.resources
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.xemay.resources
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.xuathang.resources
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.trangchu.resources
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.dangki.resources
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.dangnhap.resources
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.doimatkhau.resources
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần mềm quản lý cửa hàng xe máy.csproj.GenerateResource.cache
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần mềm quản lý cửa hàng xe máy.csproj.CoreCompileInputs.cache
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần mềm.1770DAA3.Up2Date
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần mềm quản lý cửa hàng xe máy.exe
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần mềm quản lý cửa hàng xe máy.pdb
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ProgramData\vs\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Phần mềm quản lý cửa hàng xe máy.exe.config
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Phần mềm quản lý cửa hàng xe máy.exe
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Phần mềm quản lý cửa hàng xe máy.pdb
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần mềm quản lý cửa hàng xe máy.csproj.AssemblyReference.cache
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.luong.resources
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.baocaonhap.resources
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.Baocaoxuat.resources
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.Properties.Resources.resources
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.Qlnhaphang.resources
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.quenmatkhau.resources
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.nhacungcap.resources
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.nhanvien.resources
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.xemay.resources
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.xuathang.resources
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.trangchu.resources
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.dangki.resources
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.dangnhap.resources
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.doimatkhau.resources
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần mềm quản lý cửa hàng xe máy.csproj.GenerateResource.cache
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần mềm quản lý cửa hàng xe máy.csproj.CoreCompileInputs.cache
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Ph_n m_m.1770DAA3.Up2Date
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần mềm quản lý cửa hàng xe máy.exe
+C:\Users\tamdu\Downloads\qlxm_nhom17\qlxm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần mềm quản lý cửa hàng xe máy.pdb

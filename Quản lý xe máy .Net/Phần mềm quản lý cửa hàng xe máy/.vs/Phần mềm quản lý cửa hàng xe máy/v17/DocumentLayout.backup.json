@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|solutionrelative:ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\report3.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|solutionrelative:ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\report3.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\qu\u1EA3n l\u00FD nh\u00E2n vi\u00EAn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|solutionrelative:ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\qu\u1EA3n l\u00FD nh\u00E2n vi\u00EAn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\l\u01B0\u01A1ng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|solutionrelative:ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\l\u01B0\u01A1ng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0111\u1ED5i m\u1EADt kh\u1EA9u.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|solutionrelative:ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0111\u1ED5i m\u1EADt kh\u1EA9u.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\qlnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|solutionrelative:ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\qlnhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0111\u0103ng nh\u1EADp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|solutionrelative:ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0111\u0103ng nh\u1EADp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\qu\u1EA3n l\u00FD nh\u00E0 cung c\u1EA5p.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|solutionrelative:ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\qu\u1EA3n l\u00FD nh\u00E0 cung c\u1EA5p.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0111\u0103ng k\u00FD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|solutionrelative:ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0111\u0103ng k\u00FD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\qu\u1EA3n l\u00FD m\u1EB7t h\u00E0ng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|solutionrelative:ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\qu\u1EA3n l\u00FD m\u1EB7t h\u00E0ng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\phi\u1EBFu nh\u1EADp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|solutionrelative:ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\phi\u1EBFu nh\u1EADp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\qu\u00EAn m\u1EADt kh\u1EA9u.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|solutionrelative:ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\qu\u00EAn m\u1EADt kh\u1EA9u.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|c:\\users\\tamdu\\downloads\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\qu\u1EA3n l\u00FD xe m\u00E1y .net\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0111\u1ED5i m\u1EADt kh\u1EA9u.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|solutionrelative:ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0111\u1ED5i m\u1EADt kh\u1EA9u.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\trang ch\u1EE7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|solutionrelative:ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\trang ch\u1EE7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\qu\u1EA3n l\u00FD xu\u1EA5t h\u00E0ng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|solutionrelative:ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\qu\u1EA3n l\u00FD xu\u1EA5t h\u00E0ng.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\phi\u1EBFu xu\u1EA5t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|solutionrelative:ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\phi\u1EBFu xu\u1EA5t.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0111\u0103ng k\u00FD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}|Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y.csproj|solutionrelative:ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0111\u0103ng k\u00FD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Report3.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Report3.rdlc",
+              "RelativeDocumentMoniker": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Report3.rdlc",
+              "ToolTip": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Report3.rdlc [Design]",
+              "RelativeToolTip": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Report3.rdlc [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-05-30T09:31:57.749Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Report1.rdlc [Design]",
+              "DocumentMoniker": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Report1.rdlc",
+              "RelativeDocumentMoniker": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Report1.rdlc",
+              "ToolTip": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Report1.rdlc [Design]*",
+              "RelativeToolTip": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Report1.rdlc [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2024-05-31T09:31:28.913Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Qu\u1EA3n l\u00FD m\u1EB7t h\u00E0ng.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Qu\u1EA3n l\u00FD m\u1EB7t h\u00E0ng.cs",
+              "RelativeDocumentMoniker": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Qu\u1EA3n l\u00FD m\u1EB7t h\u00E0ng.cs",
+              "ToolTip": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Qu\u1EA3n l\u00FD m\u1EB7t h\u00E0ng.cs [Design]",
+              "RelativeToolTip": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Qu\u1EA3n l\u00FD m\u1EB7t h\u00E0ng.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:40:42.108Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Phi\u1EBFu xu\u1EA5t.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Phi\u1EBFu xu\u1EA5t.cs",
+              "RelativeDocumentMoniker": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Phi\u1EBFu xu\u1EA5t.cs",
+              "ToolTip": "C:\\Users\\tamdu\\Downloads\\qlxm_nhom17\\qlxm\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Phi\u1EBFu xu\u1EA5t.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\qlxm_nhom17\\qlxm\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Phi\u1EBFu xu\u1EA5t.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:39:55.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Qu\u1EA3n l\u00FD xu\u1EA5t h\u00E0ng.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Qu\u1EA3n l\u00FD xu\u1EA5t h\u00E0ng.cs",
+              "RelativeDocumentMoniker": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Qu\u1EA3n l\u00FD xu\u1EA5t h\u00E0ng.cs",
+              "ToolTip": "C:\\Users\\tamdu\\Downloads\\qlxm_nhom17\\qlxm\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Qu\u1EA3n l\u00FD xu\u1EA5t h\u00E0ng.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\qlxm_nhom17\\qlxm\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Qu\u1EA3n l\u00FD xu\u1EA5t h\u00E0ng.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:41:41.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "\u0110\u1ED5i m\u1EADt kh\u1EA9u.cs",
+              "DocumentMoniker": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0110\u1ED5i m\u1EADt kh\u1EA9u.cs",
+              "RelativeDocumentMoniker": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0110\u1ED5i m\u1EADt kh\u1EA9u.cs",
+              "ToolTip": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0110\u1ED5i m\u1EADt kh\u1EA9u.cs",
+              "RelativeToolTip": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0110\u1ED5i m\u1EADt kh\u1EA9u.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAuwHEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:38:24.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Trang ch\u1EE7.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Trang ch\u1EE7.cs",
+              "RelativeDocumentMoniker": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Trang ch\u1EE7.cs",
+              "ToolTip": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Trang ch\u1EE7.cs [Design]",
+              "RelativeToolTip": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Trang ch\u1EE7.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:45:04.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Phi\u1EBFu nh\u1EADp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Phi\u1EBFu nh\u1EADp.cs",
+              "RelativeDocumentMoniker": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Phi\u1EBFu nh\u1EADp.cs",
+              "ToolTip": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Phi\u1EBFu nh\u1EADp.cs [Design]",
+              "RelativeToolTip": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Phi\u1EBFu nh\u1EADp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:39:44.823Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "\u0110\u0103ng nh\u1EADp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0110\u0103ng nh\u1EADp.cs",
+              "RelativeDocumentMoniker": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0110\u0103ng nh\u1EADp.cs",
+              "ToolTip": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0110\u0103ng nh\u1EADp.cs [Design]",
+              "RelativeToolTip": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0110\u0103ng nh\u1EADp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:22:51.797Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "\u0110\u1ED5i m\u1EADt kh\u1EA9u.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0110\u1ED5i m\u1EADt kh\u1EA9u.cs",
+              "RelativeDocumentMoniker": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0110\u1ED5i m\u1EADt kh\u1EA9u.cs",
+              "ToolTip": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0110\u1ED5i m\u1EADt kh\u1EA9u.cs [Design]",
+              "RelativeToolTip": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0110\u1ED5i m\u1EADt kh\u1EA9u.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:38:22.767Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Qu\u1EA3n l\u00FD nh\u00E2n vi\u00EAn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Qu\u1EA3n l\u00FD nh\u00E2n vi\u00EAn.cs",
+              "RelativeDocumentMoniker": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Qu\u1EA3n l\u00FD nh\u00E2n vi\u00EAn.cs",
+              "ToolTip": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Qu\u1EA3n l\u00FD nh\u00E2n vi\u00EAn.cs [Design]",
+              "RelativeToolTip": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Qu\u1EA3n l\u00FD nh\u00E2n vi\u00EAn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:41:27.982Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "\u0110\u0103ng k\u00FD.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0110\u0103ng k\u00FD.cs",
+              "RelativeDocumentMoniker": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0110\u0103ng k\u00FD.cs",
+              "ToolTip": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0110\u0103ng k\u00FD.cs [Design]",
+              "RelativeToolTip": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0110\u0103ng k\u00FD.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:37:27.56Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Qu\u00EAn m\u1EADt kh\u1EA9u.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Qu\u00EAn m\u1EADt kh\u1EA9u.cs",
+              "RelativeDocumentMoniker": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Qu\u00EAn m\u1EADt kh\u1EA9u.cs",
+              "ToolTip": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Qu\u00EAn m\u1EADt kh\u1EA9u.cs [Design]",
+              "RelativeToolTip": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Qu\u00EAn m\u1EADt kh\u1EA9u.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:42:02.586Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "\u0110\u0103ng k\u00FD.cs",
+              "DocumentMoniker": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0110\u0103ng k\u00FD.cs",
+              "RelativeDocumentMoniker": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0110\u0103ng k\u00FD.cs",
+              "ToolTip": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0110\u0103ng k\u00FD.cs",
+              "RelativeToolTip": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\\u0110\u0103ng k\u00FD.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAAAEIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:37:32.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Qu\u1EA3n l\u00FD nh\u00E0 cung c\u1EA5p.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Qu\u1EA3n l\u00FD nh\u00E0 cung c\u1EA5p.cs",
+              "RelativeDocumentMoniker": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Qu\u1EA3n l\u00FD nh\u00E0 cung c\u1EA5p.cs",
+              "ToolTip": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Qu\u1EA3n l\u00FD nh\u00E0 cung c\u1EA5p.cs [Design]",
+              "RelativeToolTip": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Qu\u1EA3n l\u00FD nh\u00E0 cung c\u1EA5p.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:35:44.097Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Qlnhaphang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Qlnhaphang.cs",
+              "RelativeDocumentMoniker": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Qlnhaphang.cs",
+              "ToolTip": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Qlnhaphang.cs [Design]",
+              "RelativeToolTip": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Qlnhaphang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:34:42.349Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "L\u01B0\u01A1ng.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\L\u01B0\u01A1ng.cs",
+              "RelativeDocumentMoniker": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\L\u01B0\u01A1ng.cs",
+              "ToolTip": "C:\\Users\\tamdu\\Downloads\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD b\u00E1n xe m\u00E1y\\Qu\u1EA3n l\u00FD xe m\u00E1y .Net\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\L\u01B0\u01A1ng.cs [Design]",
+              "RelativeToolTip": "Ph\u1EA7n m\u1EC1m qu\u1EA3n l\u00FD c\u1EEDa h\u00E0ng xe m\u00E1y\\L\u01B0\u01A1ng.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T07:38:34.912Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

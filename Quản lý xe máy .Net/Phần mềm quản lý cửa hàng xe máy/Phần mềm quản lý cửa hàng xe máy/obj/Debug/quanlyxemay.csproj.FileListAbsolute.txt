@@ -1,0 +1,12 @@
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Phần mềm quản lý cửa hàng xe máy.exe.config
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Phần mềm quản lý cửa hàng xe máy.exe
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\bin\Debug\Phần mềm quản lý cửa hàng xe máy.pdb
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\quanlyxemay.csprojAssemblyReference.cache
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.Properties.Resources.resources
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.quenmatkhau.resources
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.dangki.resources
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần_mềm_quản_lý_cửa_hàng_xe_máy.Form1.resources
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\quanlyxemay.csproj.GenerateResource.cache
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\quanlyxemay.csproj.CoreCompileInputs.cache
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần mềm quản lý cửa hàng xe máy.exe
+D:\Đồ án cnpm\Phần mềm quản lý cửa hàng xe máy\Phần mềm quản lý cửa hàng xe máy\obj\Debug\Phần mềm quản lý cửa hàng xe máy.pdb

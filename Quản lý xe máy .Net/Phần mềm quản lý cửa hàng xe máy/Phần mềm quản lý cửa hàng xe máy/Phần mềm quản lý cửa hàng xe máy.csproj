@@ -1,0 +1,281 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{393A2AD4-BD8F-4BB0-97BE-D2E1D5EB75BA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Phần_mềm_quản_lý_cửa_hàng_xe_máy</RootNamespace>
+    <AssemblyName>Phần mềm quản lý cửa hàng xe máy</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevComponents.DotNetBar2">
+      <HintPath>..\..\..\Downloads\DevComponents.DotNetBar2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1620.0\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataSet1.cs">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Lương.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lương.Designer.cs">
+      <DependentUpon>Lương.cs</DependentUpon>
+    </Compile>
+    <Compile Include="model\luong.cs" />
+    <Compile Include="model\nhacungcap.cs" />
+    <Compile Include="model\nhanvien.cs" />
+    <Compile Include="model\nhaphang.cs" />
+    <Compile Include="model\xemay.cs" />
+    <Compile Include="model\xuathang.cs" />
+    <Compile Include="Phiếu nhập.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Phiếu nhập.Designer.cs">
+      <DependentUpon>Phiếu nhập.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Phiếu xuất.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Phiếu xuất.Designer.cs">
+      <DependentUpon>Phiếu xuất.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Qlnhaphang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Qlnhaphang.Designer.cs">
+      <DependentUpon>Qlnhaphang.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quên mật khẩu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quên mật khẩu.Designer.cs">
+      <DependentUpon>Quên mật khẩu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quản lý nhà cung cấp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quản lý nhà cung cấp.Designer.cs">
+      <DependentUpon>Quản lý nhà cung cấp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quản lý nhân viên.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quản lý nhân viên.Designer.cs">
+      <DependentUpon>Quản lý nhân viên.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quản lý mặt hàng.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quản lý mặt hàng.Designer.cs">
+      <DependentUpon>Quản lý mặt hàng.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Quản lý xuất hàng.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quản lý xuất hàng.Designer.cs">
+      <DependentUpon>Quản lý xuất hàng.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="Trang chủ.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Trang chủ.Designer.cs">
+      <DependentUpon>Trang chủ.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Đăng ký.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Đăng ký.Designer.cs">
+      <DependentUpon>Đăng ký.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Đăng nhập.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Đăng nhập.Designer.cs">
+      <DependentUpon>Đăng nhập.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Đổi mật khẩu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Đổi mật khẩu.Designer.cs">
+      <DependentUpon>Đổi mật khẩu.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Lương.resx">
+      <DependentUpon>Lương.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Phiếu nhập.resx">
+      <DependentUpon>Phiếu nhập.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Phiếu xuất.resx">
+      <DependentUpon>Phiếu xuất.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Qlnhaphang.resx">
+      <DependentUpon>Qlnhaphang.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quên mật khẩu.resx">
+      <DependentUpon>Quên mật khẩu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quản lý nhà cung cấp.resx">
+      <DependentUpon>Quản lý nhà cung cấp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quản lý nhân viên.resx">
+      <DependentUpon>Quản lý nhân viên.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quản lý mặt hàng.resx">
+      <DependentUpon>Quản lý mặt hàng.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Quản lý xuất hàng.resx">
+      <DependentUpon>Quản lý xuất hàng.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report1.rdlc" />
+    <EmbeddedResource Include="Report3.rdlc" />
+    <EmbeddedResource Include="Trang chủ.resx">
+      <DependentUpon>Trang chủ.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Đăng ký.resx">
+      <DependentUpon>Đăng ký.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Đăng nhập.resx">
+      <DependentUpon>Đăng nhập.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Đổi mật khẩu.resx">
+      <DependentUpon>Đổi mật khẩu.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banker-flat-icon-png_238399.jpg" />
+    <None Include="Resources\search-icon-24.png" />
+    <None Include="Resources\Login-icon-16.png" />
+    <None Include="Resources\Login-icon-32.png" />
+    <None Include="Resources\exit.png" />
+    <None Include="Resources\8955.jpg" />
+    <None Include="Resources\65598.jpg" />
+    <None Include="Resources\tải xuống %285%29.jpg" />
+    <None Include="Resources\619aff85d2d989178697ac55_screenshot_1637547888.png" />
+    <None Include="Resources\tải xuống %283%29.png" />
+    <None Include="Resources\tải xuống %283%292.ico" />
+    <None Include="Resources\Login Manager.png" />
+    <None Include="Resources\Apps-preferences-desktop-user-password-icon-24.png" />
+    <None Include="Resources\Actions-edit-delete-icon-16.png" />
+    <None Include="Resources\Save-icon-48.png" />
+    <None Include="Resources\Save-icon.png" />
+    <None Include="Resources\images.png" />
+    <None Include="Resources\images.ico" />
+    <None Include="Resources\tải xuống.ico" />
+    <None Include="Resources\System.ico" />
+    <None Include="Resources\User.ico" />
+    <None Include="Resources\Applications.ico" />
+    <None Include="Resources\Documents.ico" />
+    <None Include="Resources\Char.ico" />
+    <None Include="Resources\655981.jpg" />
+    <None Include="Resources\tải xuống %281%29.jpg" />
+    <None Include="Resources\5589999.jpg" />
+    <None Include="Resources\images %283%29.jpg" />
+    <None Include="Resources\images %282%29.png" />
+    <None Include="Resources\images %282%291.png" />
+    <None Include="Resources\55899991.jpg" />
+    <None Include="Resources\tải xuống %286%29.ico" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
